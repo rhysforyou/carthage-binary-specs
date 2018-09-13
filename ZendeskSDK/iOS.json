@@ -1,9 +1,3 @@
 {
-  "2.1.0": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.1.0.zip",
-  "2.0.5": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.5.zip",
-  "2.0.4": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.4.zip",
-  "2.0.3": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.3.zip",
-  "2.0.2": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.2.zip",
-  "2.0.1": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.1.zip",
-  "2.0.0": "https://github.com/zendesk/zendesk_sdk_ios/archive/2.0.0.zip"
+  "2.1.0": "https://rhysforyou-carthage-binary-deps.s3.amazonaws.com/ZendeskSDK/2.1.0/ZendeskSDK.zip"
 }
